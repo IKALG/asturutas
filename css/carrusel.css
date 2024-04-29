@@ -1,5 +1,5 @@
 .carrusel {
-    width: 100%;
+    width: 90%;
     overflow: hidden;
   }
   
@@ -8,5 +8,5 @@
   }
   
   .slide img {
-    width: 80%;
+    width: 100%;
   }
