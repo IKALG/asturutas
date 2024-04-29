@@ -1,0 +1,13 @@
+.carrusel {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slide {
+    display: none;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
